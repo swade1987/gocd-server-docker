@@ -1,4 +1,4 @@
-# GoCD Server docker image
+# GoCD server docker image
 
 [![Docker Repository on Quay](https://quay.io/repository/swade1987/gocd-server/status "Docker Repository on Quay")](https://quay.io/repository/swade1987/gocd-server)
 
